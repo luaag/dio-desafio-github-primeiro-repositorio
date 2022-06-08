@@ -46,7 +46,7 @@
   
   ****Orientação a objeto:**** Paradigma de programação baseado na utilização de objetos e suas interações. Análogo ao mundo real.
   
-  ****Pseudocódigo Portugol: 
+  Pseudocódigo Portugol:
   
      ****Portugol >****  uma pseudolinguagem que permite ao programador pensar no programa em si e não no equipamento que irá executar o algorítmo. Algorítmo estruturados em português.
      
